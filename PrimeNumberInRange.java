@@ -27,4 +27,5 @@ class PrimeNumberInRange {
         }
         System.out.println("\n Total Prime Numbers are: " + pr_count);
     }
+
 }
